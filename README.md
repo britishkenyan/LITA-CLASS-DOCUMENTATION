@@ -1,3 +1,4 @@
 # LITA-CLASS-DOCUMENTATION
 ## LITA_DB
-Learning repo for Ladies in technology project
+Learning repo for Ladies in Technology project
+Project: Sales analysis for E-commerce
