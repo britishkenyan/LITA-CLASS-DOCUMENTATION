@@ -1,2 +1,3 @@
 # LITA-CLASS-DOCUMENTATION
-Repository for Ladies in technology project
+##LITA_DB
+Learning repo for Ladies in technology project
