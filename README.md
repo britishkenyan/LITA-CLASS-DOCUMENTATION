@@ -40,7 +40,8 @@ SELECT * WILDCARD
 WHERE AVG AGE >= 20
 ```
 
-####  Images
+#### Data Visualization (Images)
+
 
 
 ####  Recommendations
