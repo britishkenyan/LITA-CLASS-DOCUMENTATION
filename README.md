@@ -39,6 +39,11 @@ This is where we include basic lines of code or queries or even some DAX express
 SELECT * WILDCARD
 WHERE AVG AGE >= 20
 ```
+💻
+|heading 1|heading 2|
+------|------|
+|table 1|table 2|
+
 
 #### Data Visualization (Images)
 
