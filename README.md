@@ -12,7 +12,7 @@ This Data Analysis project aim to dive into the sales data of an e-commerce proj
 The primary source of data **salesdata.csv** will be open source downloaded from free data sites online
 
 #### Tools Used 
-- Microsoft Excel - [Download Here] (https://www.microsoftexcel.com) 
+- Microsoft Excel - [Download Here] (https://www.microsoft.com) 
   1. Analysis
   2. Data Cleaning
   3. Data Visualization
