@@ -1,9 +1,27 @@
 # LITA-CLASS-DOCUMENTATION
+*Learning repo for Ladies in Technology project*
 
 ### LITA Project Title: Sales Analysis for E-commerce
 ---
+[Project Overview](#project-overview)
 
-Learning repo for Ladies in Technology project
+[Data Sources](data-sources)
+
+
+Tools Used 
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization 
+
+Recommendations
+
+
+
 
 #### Project Overview
 This Data Analysis project aim to dive into the sales data of an e-commerce project from the past year, to generate insights by performing analysis using set parameters to make informed business decisions and tell compelling stories around the data.
